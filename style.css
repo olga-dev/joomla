@@ -1,0 +1,40 @@
+body {
+    padding: 0 20% 0 20%;
+    background-color: #f4f6f7;
+}
+
+.header {
+    border: 1px solid #d8d8d8;
+    width: 100%;
+    background-color: white;
+    padding: 0 20px 0 20px;
+    border-radius: 5px;
+}
+
+.header-text {
+    width: 65%;
+}
+
+.header-text h1 {
+    color: #004466;
+}
+
+.header-separator {
+    border: 1px solid #f4f6f7;
+    width: 100%;
+}
+
+.search {
+    border-radius: 15px;
+    border: 2px solid #d8d8d8;
+    height: 27px;
+    width: 100%;
+}
+
+.search input {
+    border: 0px;
+    background-color: #fff;
+    margin: 0 10px 0 10px;
+    width: 80%;
+    height: 25px;
+}
