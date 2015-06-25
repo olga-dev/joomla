@@ -1,5 +1,5 @@
 body {
-    padding: 0 20% 0 20%;
+    padding: 0px 20% 0px 20%;
     background-color: #f4f6f7;
 }
 
@@ -7,7 +7,7 @@ body {
     border: 1px solid #d8d8d8;
     width: 100%;
     background-color: white;
-    padding: 0 20px 0 20px;
+    padding: 0px 20px 0px 20px;
     border-radius: 5px;
 }
 
@@ -34,7 +34,7 @@ body {
 .search input {
     border: 0px;
     background-color: #fff;
-    margin: 0 10px 0 10px;
+    margin: 0px 10px 0px 10px;
     width: 80%;
     height: 25px;
 }
@@ -46,4 +46,29 @@ body {
 
 .menu div a {
     text-decoration: none;
+}
+
+.image img {
+    width: 544px;
+    height: 140px;
+}
+
+.text-header h2 {
+    color: #0088cc;
+}
+
+.details {
+    color: #9999a8;
+    font-size: 13px;
+    margin: 2px 0px 2px 0px;
+}
+
+.author {
+    color: #9999a8;
+    font-size: 13px;
+    margin: 2px 0px 2px 10px;
+}
+
+.text {
+    margin-top: 20px;
 }
