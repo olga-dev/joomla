@@ -72,3 +72,33 @@ body {
 .text {
     margin-top: 20px;
 }
+
+.right-box {
+    border: 1px solid #d8d8d8;
+    border-radius: 3px;
+    background-color: #f5f5f5;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+.right-column {
+    vertical-align: top;
+    padding-left: 20px;
+}
+
+.right-box ul {
+    padding-left: 20px;
+    margin-top: 4px;
+}
+
+.box-separator {
+    border: 1px solid #eee;
+    margin-top: 4px;
+}
+
+.right-box a {
+    color: #0088cc;
+    text-decoration: none;
+    font-size: 11px;
+}
