@@ -124,3 +124,11 @@ body {
     border-bottom: 1px solid rgba(255, 255, 255, 0.6);
     margin: 10px;
 }
+
+.footer {
+    width: 100%;
+}
+
+.footer-right {
+    text-align: right;
+}
