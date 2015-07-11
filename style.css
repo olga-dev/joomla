@@ -127,6 +127,16 @@ body {
 
 .footer {
     width: 100%;
+    font-size: 11px;
+}
+
+.footer p {
+    margin: 0px 0px 15px 0px;
+}
+
+.footer a {
+    color: #0088cc;
+    text-decoration: none;
 }
 
 .footer-right {
